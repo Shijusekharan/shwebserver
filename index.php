@@ -1,5 +1,5 @@
 <?php
-$servername = "database";
+$servername = "shijudb";
 $username = "root";
 $password = "123";
 $dbname = "shdb";
